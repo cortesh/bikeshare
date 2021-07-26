@@ -13,7 +13,6 @@ Some of the data points used in this analysis are gender, trip duration and star
 
 * Most trips are under 30 minutes
 
-
 * Heaviest usage days are Monday through Friday, with Thursday as the busiest day
 
 ![time](https://github.com/cortesh/bikeshare/blob/main/images/time.png)
@@ -28,7 +27,6 @@ Some of the data points used in this analysis are gender, trip duration and star
 
 There are roughly twice as many male riders as female riders
 
-gender.png
 ![gender](https://github.com/cortesh/bikeshare/blob/main/images/gender.png)
 
 
@@ -36,6 +34,9 @@ gender.png
 
 ## Summary: 
 
+### Major takeaways:
+1. New Yorkers have taken to use the bikeshare program as a major means of transport for work.  This is why subscribers outnumber customers, who might be tourists, for whom a subscription would make little sense.  This is also supported by the average trip duration which is under 30 minutes and explains to a large extent why heaviest usage is during the work week as well as why pickup and drop off locations seem to be the same for the most part.
 
+3. Men use the service more than women.  One explanation for this might be that office attire in NYC disincentivises more women to make sure of bikes as a form of daily work transport than do the men.
 
-
+What is missing from this analysis is the cost of the bicycles themselves.  This would help develop a plan for scalability.  Another external piece of data missing is the availability/accessibility of bike routes in the other buroughs.  It would help to know if part of the reason for the popularity of Manhattan over the other buroughs has to do with ease of bike travel through busy boulevards (like Queens Boulevard in Queens or Atlantic Avenue in Brooklyn) or the density of workplaces, which would cut down on distances and travel time.
